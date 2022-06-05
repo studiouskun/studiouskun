@@ -13,6 +13,9 @@ in Deutschland : technische Informatik, Elektro-, Informationstechnik
 
 in Korea : Big Data analysis
 
+## 제2외국어
+독일어(Deutsch) -> DSH2취득(C1 수준)
+
 ## Language Skill
 C+, C++, Python, Java, C#
 

@@ -1,7 +1,7 @@
 ## Introduction 
 - 👋 Hi, I’m KUN HONG
 - 👀 can Speak German, Korean, English (kann Deutsch, Koreanisch, English sprechen)
-- 🌱 7년간 독일 거주 (war in Deutschland gewohnt) 
+- 🌱 7년간 독일 거주 경험(war in Deutschland gewohnt) 
 
 
 <!---
@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 전공
 in Deutschland : technische Informatik, Elektro-, Informationstechnik
+
 in Korea : Big Data analysis
 
 ## Language Skill

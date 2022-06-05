@@ -22,6 +22,7 @@ QT 를 이용한 Navigation-System
 C++ 를 이용한 자율주행 시스템
 
 Python을 이용한 부동산 경매가격 예측(캡스톤 디자인) 
+
 데이터 분석 및 api서버 개발
 
 ![image](https://user-images.githubusercontent.com/44734607/172060639-6bb34057-7ff4-40a9-901b-c5b301bbdf82.png)

@@ -21,7 +21,7 @@ QT 를 이용한 Navigation-System
 
 C++ 를 이용한 자율주행 시스템
 
-Python + Lego Mindstorm 을 이-> 센서를 통해 자동 도개교 
+Python + Lego Mindstorm 을 이용-> 센서를 통해 자동 도개교 
 
 Python을 이용한 부동산 경매가격 예측(캡스톤 디자인) -> 데이터 분석 및 api서버 개발
 
